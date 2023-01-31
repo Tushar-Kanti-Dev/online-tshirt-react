@@ -1,0 +1,10 @@
+.grand-container{
+    border: 2px solid goldenrod;
+    margin: 10px;
+}
+.grand-family{
+    display: flex;
+    border: 2px solid goldenrod;
+    margin: 10px;
+    padding: 10px;
+}
